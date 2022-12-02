@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><informe name="informe_order_details.csv">,NaNs,Nulls,Porcentaje NaNs,Porcentaje Nulls,Data Type
+order_details_id,0,0,0.0,0.0,int64
+order_id,0,0,0.0,0.0,int64
+pizza_id,5673,5673,11.668037844508433,11.668037844508433,object
+quantity,4726,4726,9.72027972027972,9.72027972027972,object
+</informe><informe name="informe_orders.csv">,NaNs,Nulls,Porcentaje NaNs,Porcentaje Nulls,Data Type
+order_id,0,0,0.0,0.0,int64
+date,2353,2353,11.021077283372366,11.021077283372366,object
+time,2038,2038,9.54566744730679,9.54566744730679,object
+</informe><informe name="informe_pizzas.csv">,NaNs,Nulls,Porcentaje NaNs,Porcentaje Nulls,Data Type
+pizza_id,0,0,0.0,0.0,object
+pizza_type_id,0,0,0.0,0.0,object
+size,0,0,0.0,0.0,object
+price,0,0,0.0,0.0,float64
+</informe><informe name="informe_pizza_types.csv">,NaNs,Nulls,Porcentaje NaNs,Porcentaje Nulls,Data Type
+pizza_type_id,0,0,0.0,0.0,object
+name,0,0,0.0,0.0,object
+category,0,0,0.0,0.0,object
+ingredients,0,0,0.0,0.0,object
+</informe><recomendacion name="compra_semana.csv">Ingrediente,Unidades
+Barbecued Chicken,83
+Red Peppers,569
+Green Peppers,176
+Tomatoes,955
+Red Onions,692
+Barbecue Sauce,83
+Chicken,304
+Artichoke,78
+Spinach,329
+Garlic,1008
+Jalapeno Peppers,204
+Fontina Cheese,114
+Gouda Cheese,78
+Mushrooms,306
+Asiago Cheese,115
+Alfredo Sauce,33
+Pesto Sauce,98
+Corn,126
+Cilantro,126
+Chipotle Sauce,126
+Pineapple,161
+Thai Sweet Chilli Sauce,87
+Bacon,106
+Pepperoni,307
+Italian Sausage,33
+Chorizo Sausage,33
+Sliced Ham,74
+Mozzarella Cheese,383
+Capocollo,245
+Goat Cheese,126
+Oregano,52
+Anchovies,49
+Green Olives,201
+Kalamata Olives,131
+Feta Cheese,172
+Beef Chuck Roast,68
+Brie Carre Cheese,8
+Prosciutto,8
+Caramelized Onions,8
+Pears,8
+Thyme,8
+Â‘Nduja Salami,35
+Pancetta,35
+Friggitello Peppers,35
+Calabrese Salami,67
+Genoa Salami,52
+Prosciutto di San Daniele,48
+Arugula,48
+Coarse Sicilian Salami,60
+Luganega Sausage,60
+Onions,60
+Soppressata Salami,36
+Artichokes,199
+Peperoncini verdi,74
+Provolone Cheese,69
+Smoked Gouda Cheese,69
+Romano Cheese,69
+Blue Cheese,69
+Ricotta Cheese,81
+Gorgonzola Piccante Cheese,81
+Parmigiano Reggiano Cheese,81
+Eggplant,30
+Zucchini,79
+Sun-dried Tomatoes,65
+Plum Tomatoes,33
+</recomendacion></root>

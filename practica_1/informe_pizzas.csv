@@ -1,0 +1,5 @@
+,NaNs,Nulls,Porcentaje NaNs,Porcentaje Nulls,Data Type
+pizza_id,0,0,0.0,0.0,object
+pizza_type_id,0,0,0.0,0.0,object
+size,0,0,0.0,0.0,object
+price,0,0,0.0,0.0,float64

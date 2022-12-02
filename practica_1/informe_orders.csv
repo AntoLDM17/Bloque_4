@@ -1,0 +1,4 @@
+,NaNs,Nulls,Porcentaje NaNs,Porcentaje Nulls,Data Type
+order_id,0,0,0.0,0.0,int64
+date,2353,2353,11.021077283372366,11.021077283372366,object
+time,2038,2038,9.54566744730679,9.54566744730679,object
