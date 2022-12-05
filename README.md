@@ -15,7 +15,7 @@ Added support for creating an executive report in pdf using matplotlib to be abl
 Added support for creating an excel report using pandas and xlsxwriter. Generating a report in excel of the executive part, the ingredient part and the orders part.
 
 ### Instructions:
-To execute the program, run "pizzas_maven_ejecutivo.py" or "pizzas_maven_excel.py"
+To execute the program, use pip install -r requirements.txt to download the libraries needed. Then run "pizzas_maven_ejecutivo.py" or "pizzas_maven_excel.py"
 Also, it is possible to create a docker image to deploy the program in a safer way.
 To do that, just run the following command in the console, inside the directory where you clone this repository:
 
